@@ -14,6 +14,10 @@ A simple game written in JS.
 
 - Java Script
 
+## Flowchart
+
+![pig-game-flowchart](https://user-images.githubusercontent.com/15987993/106767556-44e69d80-663b-11eb-99bd-c8ab12a33261.png)
+
 ## Status
 
 In progress.
